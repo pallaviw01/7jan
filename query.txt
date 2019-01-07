@@ -1,0 +1,1 @@
+update DailyLog_Event set eventrecordstatus=2
